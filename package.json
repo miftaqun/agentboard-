@@ -1,0 +1,18 @@
+{
+  "name": "agentid-hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.13.4",
+    "ganache": "^7.9.2",
+    "https-proxy-agent": "^7.0.6",
+    "solc": "^0.8.28"
+  }
+}
