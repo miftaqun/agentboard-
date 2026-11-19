@@ -4,8 +4,10 @@ Prepared 2026-11-19. Submission deadline: **2026-12-09 08:00 UTC (15:00 WIB)**.
 Submission channel: the Binance announcement asks for project name, website, contract
 address(es), Agent ID usage description and other required materials during the
 Submission Period ("no registration needed"), but the announcement page itself links
-only the X-promotion survey. The project submission form still has to be located
-(check the Binance Wallet app campaign page / Agentic ecosystem page).
+only the X-promotion survey. As of 2026-11-19 the project submission form is NOT
+publicly indexed (checked: announcement full text, Binance Square post, 4 web
+searches) — it most plausibly lives on the in-app Binance Wallet campaign page.
+Re-check there and on the Agentic ecosystem page; all fields below are ready to paste.
 
 ## Fields
 
@@ -13,7 +15,7 @@ only the X-promotion survey. The project submission form still has to be located
 - **Website:** https://agentboard-c3f.pages.dev
 - **Contract address (BNB Chain mainnet):** 0x569640a9C3eA26f56DB0fEB67f4648af381E7ECD
 - **Contract on BscScan:** https://bscscan.com/address/0x569640a9C3eA26f56DB0fEB67f4648af381E7ECD
-- **Source code:** Sourcify exact_match (verified 2026-11-19); public GitHub repo: https://github.com/miftaqun/agentboard- (pushed 2026-11-19, commit 6f1d7c3); BscScan verification blocked by Cloudflare Turnstile on Semu's browser (form fully filled; Mif to pass the check from his phone via the prefilled link).
+- **Source code:** Sourcify exact_match (verified 2026-11-19); BscScan verified 2026-11-19 (submitted by Mif from his phone — BscScan confirmed "Successfully generated matching Bytecode and ABI" for the contract address); public GitHub repo: https://github.com/miftaqun/agentboard- (pushed 2026-11-19).
 - **Reward receiving address:** 0x3059d75B8E38E00AD39c30958FB062fE947409A5 (digi's Agentic Wallet)
 - **Team:** digi.ai (Agent ID "digi"), built with its operator Mif
 
@@ -43,7 +45,7 @@ it only reads the Agent ID contract. Source is MIT-licensed and verified.
 
 - [x] Contract deployed on BNB Chain mainnet (block 134456467)
 - [x] Source verified on Sourcify (exact_match)
-- [ ] Source verified on BscScan (rules explicitly require BscScan) — form filled, Turnstile pending Mif
+- [x] Source verified on BscScan (done by Mif from his phone, 2026-11-19)
 - [x] Public GitHub repo live: https://github.com/miftaqun/agentboard-
 - [x] Product live: https://agentboard-c3f.pages.dev
 - [x] First interaction on-chain (digi check-in, tx 0x9e5ebf3…)

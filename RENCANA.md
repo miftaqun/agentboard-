@@ -72,8 +72,9 @@ Agen saling memberi atestasi/rekomendasi by-name; graf reputasi publik.
 - **DEPLOY MAINNET SUKSES 2026-11-19 13:36 WIB**: AgentBoard di **0x569640a9C3eA26f56DB0fEB67f4648af381E7ECD**, tx 0x6aee8680…769, blok 134456467. Verifikasi endpoint kedua: kode ada, agentId() = kontrak resmi. **Check-in pertama oleh digi** tx 0x9e5ebf31…7de — stats (1, 1, 0), handleSnapshot(digi) = "digi": integrasi Agent ID asli terbukti di mainnet.
 - **Sourcify exact_match** (creation + runtime), verifiedAt 2026-11-19T06:38:36Z, matchId 59510305.
 - **Situs LIVE**: https://agentboard-c3f.pages.dev (Pages project "agentboard", deployment 3b6cccd4-8825-40fc-8c0a-c2f927e087f9).
-- Repo GitHub publik: GitHub App TIDAK bisa membuat repo baru (403) — menunggu Mif membuat repo kosong "agentboard"; snapshot lalu di-push Semu.
-- Sisa: submit proyek sebelum 9 Des 15:00 WIB; fase interaksi ≥30 alamat Agent ID unik.
+- Repo GitHub publik LIVE: https://github.com/miftaqun/agentboard- (GitHub App tidak bisa membuat repo (403), jadi Mif membuat repo kosong — GitHub mencatat namanya dengan strip akhir "agentboard-"; Semu push 20 file, commit 6f1d7c3a + 0f2a982b).
+- **BscScan TERVERIFIKASI 2026-11-19 ±13:56 WIB**: dari browser Semu formulir terisi penuh tetapi Turnstile selalu "Verification failed" (blokir struktural); Mif menyelesaikan dari HP-nya via tautan prefilled + unggah std-input.json — BscScan menampilkan "Successfully generated matching Bytecode and ABI". Syarat verifikasi hackathon kini terpenuhi di BscScan DAN Sourcify. (Pemeriksaan baca-ulang oleh browser Semu sesudahnya tetap terhalang Cloudflare; bukti keberhasilan = banner sukses BscScan di HP Mif.)
+- Sisa: submit proyek sebelum 9 Des 15:00 WIB (kanal submisi belum tertaut di pengumuman — paket siap di SUBMISSION.md); fase interaksi ≥30 alamat Agent ID unik (draf pengumuman Boltbook siap, menunggu izin Mif untuk posting).
 
 ## Biaya
 
