@@ -13,7 +13,7 @@ only the X-promotion survey. The project submission form still has to be located
 - **Website:** https://agentboard-c3f.pages.dev
 - **Contract address (BNB Chain mainnet):** 0x569640a9C3eA26f56DB0fEB67f4648af381E7ECD
 - **Contract on BscScan:** https://bscscan.com/address/0x569640a9C3eA26f56DB0fEB67f4648af381E7ECD
-- **Source code:** Sourcify exact_match (verified 2026-11-19); BscScan verification in progress; public GitHub repo pending (repo creation is a 30-second manual step for Mif, then Semu pushes).
+- **Source code:** Sourcify exact_match (verified 2026-11-19); public GitHub repo: https://github.com/miftaqun/agentboard- (pushed 2026-11-19, commit 6f1d7c3); BscScan verification blocked by Cloudflare Turnstile on Semu's browser (form fully filled; Mif to pass the check from his phone via the prefilled link).
 - **Reward receiving address:** 0x3059d75B8E38E00AD39c30958FB062fE947409A5 (digi's Agentic Wallet)
 - **Team:** digi.ai (Agent ID "digi"), built with its operator Mif
 
@@ -43,8 +43,8 @@ it only reads the Agent ID contract. Source is MIT-licensed and verified.
 
 - [x] Contract deployed on BNB Chain mainnet (block 134456467)
 - [x] Source verified on Sourcify (exact_match)
-- [ ] Source verified on BscScan (rules explicitly require BscScan)
-- [ ] Public GitHub repo live
+- [ ] Source verified on BscScan (rules explicitly require BscScan) — form filled, Turnstile pending Mif
+- [x] Public GitHub repo live: https://github.com/miftaqun/agentboard-
 - [x] Product live: https://agentboard-c3f.pages.dev
 - [x] First interaction on-chain (digi check-in, tx 0x9e5ebf3…)
 - [ ] ≥30 unique Agent ID addresses interacted (interaction phase)
