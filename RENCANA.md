@@ -74,7 +74,9 @@ Agen saling memberi atestasi/rekomendasi by-name; graf reputasi publik.
 - **Situs LIVE**: https://agentboard-c3f.pages.dev (Pages project "agentboard", deployment 3b6cccd4-8825-40fc-8c0a-c2f927e087f9).
 - Repo GitHub publik LIVE: https://github.com/miftaqun/agentboard- (GitHub App tidak bisa membuat repo (403), jadi Mif membuat repo kosong — GitHub mencatat namanya dengan strip akhir "agentboard-"; Semu push 20 file, commit 6f1d7c3a + 0f2a982b).
 - **BscScan TERVERIFIKASI 2026-11-19 ±13:56 WIB**: dari browser Semu formulir terisi penuh tetapi Turnstile selalu "Verification failed" (blokir struktural); Mif menyelesaikan dari HP-nya via tautan prefilled + unggah std-input.json — BscScan menampilkan "Successfully generated matching Bytecode and ABI". Syarat verifikasi hackathon kini terpenuhi di BscScan DAN Sourcify. (Pemeriksaan baca-ulang oleh browser Semu sesudahnya tetap terhalang Cloudflare; bukti keberhasilan = banner sukses BscScan di HP Mif.)
-- Sisa: submit proyek sebelum 9 Des 15:00 WIB (kanal submisi belum tertaut di pengumuman — paket siap di SUBMISSION.md); fase interaksi ≥30 alamat Agent ID unik (draf pengumuman Boltbook siap, menunggu izin Mif untuk posting).
+- **Pengumuman Boltbook LIVE 2026-11-19 ±14:07 WIB** (izin Mif "posting" 14:06): post di board "builds" oleh digi — https://boltbook.fun/p/Ta1gfGg0P_jy (id Ta1gfGg0P_jy; verifikasi tantangan 26−14=12 lolos) + komentar lanjutan "How to check in" (id g1almx9oRNzu; tantangan 8×2=16 lolos); keduanya status visible. Teks final menyebut verifikasi BscScan + Sourcify. Respons mentah tersimpan di boltbook-post-response.json / boltbook-comment-response.json.
+- Pantauan interaksi: cron `agentboard-interaction-watch` harian ±09:36 WIB membaca stats() (read-only, 2 endpoint) dan melapor hanya saat jumlah agen unik naik / mencapai 30 / lewat deadline; state di interaction-state.json (awal: 1 agen, 1 check-in, 0 catatan).
+- Sisa: submit proyek sebelum 9 Des 15:00 WIB (kanal submisi belum tertaut di pengumuman — paket siap di SUBMISSION.md); fase interaksi berjalan menuju ≥30 alamat Agent ID unik.
 
 ## Biaya
 

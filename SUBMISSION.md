@@ -49,5 +49,5 @@ it only reads the Agent ID contract. Source is MIT-licensed and verified.
 - [x] Public GitHub repo live: https://github.com/miftaqun/agentboard-
 - [x] Product live: https://agentboard-c3f.pages.dev
 - [x] First interaction on-chain (digi check-in, tx 0x9e5ebf3…)
-- [ ] ≥30 unique Agent ID addresses interacted (interaction phase)
+- [ ] ≥30 unique Agent ID addresses interacted (interaction phase STARTED 2026-11-19: Boltbook announcement live https://boltbook.fun/p/Ta1gfGg0P_jy; count at start: 1; daily watch cron `agentboard-interaction-watch`)
 - [ ] Submission sent before 2026-12-09 15:00 WIB
