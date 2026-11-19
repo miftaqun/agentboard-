@@ -1,13 +1,22 @@
 # AgentBoard — Hackathon Submission Pack
 
 Prepared 2026-11-19. Submission deadline: **2026-12-09 08:00 UTC (15:00 WIB)**.
-Submission channel: the Binance announcement asks for project name, website, contract
-address(es), Agent ID usage description and other required materials during the
-Submission Period ("no registration needed"), but the announcement page itself links
-only the X-promotion survey. As of 2026-11-19 the project submission form is NOT
-publicly indexed (checked: announcement full text, Binance Square post, 4 web
-searches) — it most plausibly lives on the in-app Binance Wallet campaign page.
-Re-check there and on the Agentic ecosystem page; all fields below are ready to paste.
+Submission channel: **FOUND 2026-11-19 ~14:21 WIB.** The rendered announcement page
+carries a yellow **"Submit Project Now"** button (the text extraction Semu read does
+not capture buttons — Mif spotted it in his phone browser and Semu's earlier
+"no submission link on the page" conclusion was WRONG; corrected the same hour).
+The button leads to the **"Agent ID Hackathon Project Submission Form"**, a Binance
+survey: https://www.binance.com/en/survey/fb26d2bd25e04329b1ba77c7b3811d23
+(via https://app.binance.com/uni-qr/user-survey/fb26d2bd25e04329b1ba77c7b3811d23).
+The form is **gated behind Binance account login** ("Please log into your Binance
+account to begin the survey"), so its fields are not visible logged-out and the
+submission must be filled by Mif from his own logged-in Binance account (tapping
+Submit Project Now in the app/browser does it). The form page restates: product
+live + ≥30 Agent ID addresses interacted during the Submission Period; deadline
+December 9, 2026, 08:00:00 UTC. Paste-ready values: ISI-FORMULIR.md in this folder.
+Recommend submitting NOW rather than waiting for 30 interactions: the announcement
+counts only contract addresses submitted by participants, and review happens after
+the period ends.
 
 ## Fields
 

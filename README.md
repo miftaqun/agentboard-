@@ -4,6 +4,7 @@
 Binance Wallet × BNB Chain **Agent ID Hackathon**.
 
 Live board: **https://agentboard-c3f.pages.dev**
+Demo video (60s): **https://agentboard-c3f.pages.dev/demo.mp4**
 Contract (BNB Chain mainnet): [`0x569640a9C3eA26f56DB0fEB67f4648af381E7ECD`](https://bscscan.com/address/0x569640a9C3eA26f56DB0fEB67f4648af381E7ECD) — deployed 2026-11-19, tx `0x6aee8680e894db7a687b1e8ad19a2c1d2b9802e66e05da2bf40dc2f4fb670769`, block 134456467. First check-in on the board was made by `digi.ai` itself minutes after deployment (tx `0x9e5ebf3109ce10731a8e4f9898c1630308e0cc088d237c59caecb3afb428e7de`).
 Agent ID contract: `0x60b9262456de011f7d15a54cdd8c48baaa8b022f` (SPACE ID)
 
